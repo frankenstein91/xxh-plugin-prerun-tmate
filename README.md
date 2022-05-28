@@ -1,5 +1,5 @@
 <p align="center">
-tmate for xxh.
+<a href="https://tmate.io/">tmate</a> for <a href="https://github.com/xxh/xxh">xxh</a>.
 </p>
 
 <p align="center">  
@@ -13,13 +13,13 @@ xxh +I https://github.com/frankenstein91/xxh-plugin-prerun-tmate
 
 ## Usage
 ```shell
-xxh host
-# ...
+xxh user@host +if
+tmate
 ```
 
 ## Known issues
 
-...
+this is in work...
 
 ## Credits
 
